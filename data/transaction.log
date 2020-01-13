@@ -1,0 +1,10 @@
+INFO: withdraw 150
+INFO: withdraw 45
+ERROR: Cant withdraw
+Account openINFO: withdraw 150
+INFO: withdraw 45
+ERROR: Cant withdraw
+Account openINFO: withdraw 150
+INFO: withdraw 45
+Account openAccount openAccount openAccount openERROR: Cant withdraw
+Account openAccount open
